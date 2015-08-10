@@ -8,6 +8,8 @@ Opentshirts is the free open source t-shirt design module for Opencart eCommerce
 If you are a develeper and want to contribute please follow the branchig model describer here
 http://nvie.com/posts/a-successful-git-branching-model/
 
+https://www.chrisranjana.com/opencartprogrammers/opentshirtdeveloper.html can customize opentshirts.
+
 --------------------------------------------------------------------------------
 
 This project follow Semantic Versioning 2.0.0
